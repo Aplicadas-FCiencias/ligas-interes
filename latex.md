@@ -1,3 +1,5 @@
+[< regresar](./README.md)
+
 # Recursos de LaTeX
 
 ## Distribuciones
